@@ -1,0 +1,9 @@
+C:\Users\Timka654\documents\visual studio 2010\Projects\NetScript\NetScriptTest\bin\Release\scripts\test1.cs
+C:\Users\Timka654\documents\visual studio 2010\Projects\NetScript\NetScriptTest\bin\Release\scripts\test2.cs
+C:\Users\Timka654\documents\visual studio 2010\Projects\NetScript\NetScriptTest\bin\Release\NetScriptTest.exe
+C:\Users\Timka654\documents\visual studio 2010\Projects\NetScript\NetScriptTest\bin\Release\NetScriptTest.pdb
+C:\Users\Timka654\documents\visual studio 2010\Projects\NetScript\NetScriptTest\bin\Release\NetScript.dll
+C:\Users\Timka654\documents\visual studio 2010\Projects\NetScript\NetScriptTest\bin\Release\NetScript.pdb
+C:\Users\Timka654\documents\visual studio 2010\Projects\NetScript\NetScriptTest\obj\x86\Release\NetScriptTest.csprojResolveAssemblyReference.cache
+C:\Users\Timka654\documents\visual studio 2010\Projects\NetScript\NetScriptTest\obj\x86\Release\NetScriptTest.exe
+C:\Users\Timka654\documents\visual studio 2010\Projects\NetScript\NetScriptTest\obj\x86\Release\NetScriptTest.pdb

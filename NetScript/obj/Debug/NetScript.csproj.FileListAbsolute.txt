@@ -1,0 +1,4 @@
+C:\Users\Timka654\documents\visual studio 2010\Projects\NetScript\NetScript\bin\Debug\NetScript.dll
+C:\Users\Timka654\documents\visual studio 2010\Projects\NetScript\NetScript\bin\Debug\NetScript.pdb
+C:\Users\Timka654\documents\visual studio 2010\Projects\NetScript\NetScript\obj\Debug\NetScript.dll
+C:\Users\Timka654\documents\visual studio 2010\Projects\NetScript\NetScript\obj\Debug\NetScript.pdb
